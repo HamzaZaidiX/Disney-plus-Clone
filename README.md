@@ -14,6 +14,11 @@ This is a Clone Made By **React JS** it is exactly just like Disney+ website als
 
 - **Firebase** 🔥 Authentication (Login/Signup)
   
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
+
 # Bye! 👋
 
 HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
