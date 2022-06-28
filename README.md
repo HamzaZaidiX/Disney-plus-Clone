@@ -5,12 +5,12 @@ This is a Clone Made By **React JS** it is exactly just like Disney+ website als
 ## Screenshots:
 
 ## 📚 Materials Used Inside The Code:
-  |
-  |-> **Redux**
-  |
-  |-> **Tailwind CSS Styled Components**
-  |
-  |-> **Firebase** 🔥 Authentication (Login/Signup)
+  
+- **Redux**
+
+- **Tailwind CSS Styled Components**
+
+- **Firebase** 🔥 Authentication (Login/Signup)
   
 # Bye! 👋
 
