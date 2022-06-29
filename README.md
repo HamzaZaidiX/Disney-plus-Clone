@@ -6,7 +6,7 @@ This is a Clone Made By **React JS** it is exactly just like Disney+ website als
 
 ## Screenshot:
 
-![Uploading Screenshot (242).png…](screenshot)
+![Uploading Screenshot (242).png…]()
 
 **Demo Video ->** [Uploading disney-plus-clone-demo-video.mp4…](Demo Clip Disney+ Clone)
 
