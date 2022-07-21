@@ -1,5 +1,5 @@
-<img align="center" src="https://user-images.githubusercontent.com/52501040/176181159-b7e9d668-1000-4dc8-8b01-f6cc3b959bc5.svg" alt="Disney+ " width="150" height="100" />
-<h1>Disney+ Clone By React JS</h1>
+<img align="center" src="https://user-images.githubusercontent.com/52501040/176181159-b7e9d668-1000-4dc8-8b01-f6cc3b959bc5.svg" alt="Disney+" width="150" height="100" />
+<h1 align="center">Disney+ Clone By React JS</h1>
 
 This is a Clone Made By **React JS** it is exactly just like Disney+ website also Inspired to build this Amazing Project when **We used to watch Disney Cartoons, Animated Movies from Disney+ that I love to watch ❤️**.
 
