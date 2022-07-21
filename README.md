@@ -6,9 +6,7 @@ This is a Clone Made By **React JS** it is exactly just like Disney+ website als
 
 ## Screenshot:
 
-![Uploading Screenshot (242).png…]()
-
-Uploading disney-plus-clone-demo-video.mp4…
+![disney-ss](https://user-images.githubusercontent.com/52501040/180257423-3c1a5a38-440e-4619-9a59-b06b6b796343.png)
 
 ## 📚 Materials Used Inside The Code:
   
