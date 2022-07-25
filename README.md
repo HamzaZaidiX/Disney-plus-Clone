@@ -8,7 +8,7 @@ This is a Clone Made By **React JS** it is exactly just like Disney+ website als
 
 <a href="https://github.com/HamzaZaidiX/Disney-plus-Clone/blob/main/disney-plus-clone-demo-video.mp4"><img src="https://user-images.githubusercontent.com/52501040/180257423-3c1a5a38-440e-4619-9a59-b06b6b796343.png" alt="Disney+ Project Screenshot" /></a>
 
-### **Click The Screenshot ☝ & Go Watch the Demo Clip of My Project**
+<h3 align="center" color="red"><b>Click The Screenshot ☝ & Go Watch the Demo Clip of My Project</b></h3>
 
 ## 📚 Materials Used Inside The Code:
   
